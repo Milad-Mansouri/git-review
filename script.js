@@ -1,7 +1,7 @@
 console.log('hello world');
 
 
+const myName = 'Milad'
 
-const myName = 'Reza'
 
-const lastName = 'Jafari'
+const done = true
